@@ -1,0 +1,10 @@
+{
+    "title": "Home | Webpack | Pug-Plugin",
+    "headline": "Home",
+    "nextpage": "Users",
+    "people": [
+        "Bob",
+        "John",
+        "Alex"
+    ]
+}
