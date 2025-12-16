@@ -1,0 +1,18 @@
+{
+    "title": "Users | Webpack | Pug-Plugin",
+    "headline": "Users",
+    "menu": [
+        {
+            "text": "Show",
+            "href": "/"
+        },
+        {
+            "text": "Add",
+            "href": "/"
+        },
+        {
+            "text": "Remove",
+            "href": "/"
+        }
+    ]
+}
