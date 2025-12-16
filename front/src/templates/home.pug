@@ -1,0 +1,12 @@
+extends @pugs/default
+
+block content
+  html
+    head
+      script(src="@scripts/main.js" defer="defer")
+    body
+      h1 Welcome to Catbrary
+      div
+        ul#people
+          each item in people
+            li= item
