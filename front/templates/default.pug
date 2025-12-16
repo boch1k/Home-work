@@ -1,0 +1,13 @@
+html
+  head
+    title= title
+    link(rel='icon', href='@images/favicon.png')
+    link(rel="stylesheet", href="@styles/style.scss")
+  body
+    div.header-bg
+      div#panel
+        a(href="/") Home
+        a(href="users.html") Users
+        a(href="admin.html") Admin
+    
+    block content
